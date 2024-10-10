@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @Arsh28896
+- 👋 Hi, I’m arsh ansari
+I'm Mohd Arsh, a machine learning and web development enthusiast with a passion for building innovative solutions.
+
+- ###About me
+- Currently working as a Machine Learning and Web Development professional
+* Interested in exploring the intersection of AI and web development
+* Always looking to learn and improve my skills in Python, TensorFlow, and JavaScript
+
+###education
+
+
+- 
 - 👀 I’m interested in Artificial intelligence,Machine learning,and web Development.
 - 🌱 I’m currently learning Data structures and Algorithms,and exploring.
 - 💞️ I’m looking to collaborate on projects that involve AI-powered solutions for real-world problems
