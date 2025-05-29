@@ -1,5 +1,5 @@
-- 👋 Hi, I’m arsh ansari
-I'm Mohd Arsh, a machine learning and web development enthusiast with a passion for building innovative solutions.
+- 👋 Hi, I'm Mohd Arsh,
+ a machine learning and web development enthusiast with a passion for building innovative solutions.
 
 - ###About me
 - Currently working as a Machine Learning and Web Development professional
