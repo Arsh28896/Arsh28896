@@ -39,7 +39,7 @@ I am a Computer Science graduate passionate about Data Analytics and Business In
 
 LinkedIn: www.linkedin.com/in/mohd-arsh-934374324
 
-GitHub: YOUR_GITHUB_URL
+GitHub: https://github.com/Arsh28896
 
 ---
 
