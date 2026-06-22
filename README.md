@@ -1,4 +1,4 @@
-# Hi, I'm Arsh Ansari 👋
+# Hi, I'm Mohd Arsh 👋
 
 ## 🚀 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
