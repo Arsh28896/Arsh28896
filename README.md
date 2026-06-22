@@ -1,22 +1,46 @@
-- 👋 Hi, I'm Mohd Arsh,
- a data analyst with a passion for building insights from data.
+# Hi, I'm Arsh Ansari 👋
 
-- ###About me
-- Currently working as a data analysis professional
-* Interested in exploring the intersection of AI and web development
-* Always looking to learn and improve my skills in Python, power bi and my sql
+## 🚀 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-###education
+I am a Computer Science graduate passionate about Data Analytics and Business Intelligence. Currently building real-world projects in Excel, SQL, Power BI, and Python to strengthen my analytical and problem-solving skills.
 
+### 🛠️ Skills
 
-- 
-- 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning and exploring.
-- 💞️ I’m looking to collaborate on projects that involve real-world problems
-- 📫 How to reach me :on github or LinkedIn
-- 😄 Pronouns:He/Him
+* Microsoft Excel
+* SQL (PostgreSQL)
+* Power BI
+* Python
+* Data Cleaning
+* Data Visualization
+* Dashboard Development
+* Data Analysis
 
-<!---
-Arsh28896/Arsh28896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Featured Projects
+
+#### Data Science Salary Calculator Dashboard
+
+* Built an interactive Excel dashboard to analyze salaries across various Data Science roles.
+* Implemented dynamic filters for Job Title, Country, and Employment Type.
+* Visualized salary trends and job market insights.
+
+#### ICC World Cup Analytics Dashboard
+
+* Created interactive dashboards using Power BI.
+* Analyzed team performance, player statistics, and tournament trends.
+
+### 🌱 Currently Learning
+
+* Advanced SQL
+* Power BI
+* Python for Data Analytics
+* Data Structures & Algorithms
+
+### 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/mohd-arsh-934374324
+
+GitHub: YOUR_GITHUB_URL
+
+---
+
+⭐ I am actively seeking opportunities in Data Analytics and Business Intelligence where I can apply my skills, learn from industry professionals, and contribute to impactful projects.
